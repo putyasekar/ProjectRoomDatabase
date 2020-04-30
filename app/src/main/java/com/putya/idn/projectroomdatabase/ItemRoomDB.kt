@@ -46,11 +46,11 @@ abstract class ItemRoomDB : RoomDatabase() {
 
             itemDao.deleteAll()
 
-            var item = Item("Hi Putya Have a Nice Day!")
-            itemDao.insert(item)
-
-            item = Item("Halo Putya!")
-            itemDao.insert(item)
+//            var item = Item("Hi Putya Have a Nice Day!")
+//            itemDao.insert(item)
+//
+//            item = Item("Halo Putya!")
+//            itemDao.insert(item)
         }
     }
 }

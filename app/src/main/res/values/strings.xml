@@ -4,4 +4,7 @@
     <string name="new_word">New Word</string>
     <string name="save">save</string>
     <string name="empty">Empty</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
 </resources>
