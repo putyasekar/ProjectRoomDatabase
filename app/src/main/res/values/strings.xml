@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project Room Database</string>
+    <string name="item">item</string>
+    <string name="new_word">New Word</string>
+    <string name="save">save</string>
+    <string name="empty">Empty</string>
+</resources>
